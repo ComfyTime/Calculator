@@ -26,3 +26,4 @@
   * 컬랙션으로 arrayList 사용
   * 컬랙션을 private 처리하였기 때문에 외부 조회 가능하도록 setter, getter 사용
     * 입력 및 삭제 구현
+velog: https://velog.io/@comfytime/2025.01.10TILJAVA
