@@ -9,6 +9,7 @@
 * level1.java
   * 값 입력에 Scanner 사용
   * 연산에 Switch 사용
+  * while 사용하여 반복 구현
 
 ## LV2
 * 계산된 결과 값을 기록하는 컬렉션 구현
